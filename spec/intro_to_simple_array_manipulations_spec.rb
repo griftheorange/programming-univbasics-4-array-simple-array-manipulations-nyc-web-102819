@@ -1,4 +1,4 @@
-require "spec_helper.rb"
+require "pry"
 require "intro_to_simple_array_manipulations.rb"
 
 
