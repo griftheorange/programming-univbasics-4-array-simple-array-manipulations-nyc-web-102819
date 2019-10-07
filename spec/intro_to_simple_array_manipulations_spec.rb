@@ -1,5 +1,5 @@
 require "spec_helper.rb"
-require "intro_to_simple_array_manipulations"
+require "intro_to_simple_array_manipulations.rb"
 
 
 
