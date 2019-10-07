@@ -1,4 +1,5 @@
 require "spec_helper.rb"
+require "intro_to_simple_array_manipulations"
 
 
 
