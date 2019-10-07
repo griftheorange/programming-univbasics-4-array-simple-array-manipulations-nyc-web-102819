@@ -38,10 +38,6 @@ def using_flatten(array)
   array.flatten
 end
 
-stuff = [
-  [2,4,6,8,9,0,],
-  [27826,275,14,2],
-  [6,8,0]
-  ]
-  
-puts stuff.flatten
+def using_delete(array, string)
+  array.delete(string)
+end
