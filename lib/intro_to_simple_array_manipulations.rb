@@ -44,4 +44,4 @@ stuff = [
   [6,8,0]
   ]
   
-puts stuff
+puts stuff.flatten
